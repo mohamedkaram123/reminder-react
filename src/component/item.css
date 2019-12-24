@@ -1,0 +1,9 @@
+.test:nth-of-type(even){
+
+	color: red;
+}
+
+.test:nth-of-type(odd){
+
+	color: blue;
+}

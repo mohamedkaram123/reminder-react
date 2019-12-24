@@ -1,0 +1,82 @@
+body{
+    background: #C70039 ;
+}
+.App{
+    width: 50%;
+    border-radius: 17px;
+    padding: 10px;
+    background: #212c75;
+    margin: 27px auto;
+    box-shadow: 1px 2px 5px #000;
+}
+
+.App .img{
+    width: 27%;     
+    display: block;
+    margin: auto;
+}
+
+.App .list{
+   margin-top: 10px;
+   margin-bottom: 10px;
+    padding: 5px;
+    background: #ffe007 ;
+    border-radius: 10px;
+    height: 70px;
+    
+
+}
+
+
+
+.font{
+
+
+    word-wrap: break-word;
+    width: 540px;
+    position: relative;
+    top: -40px; 
+    left:15px;
+    font-weight: bold;
+     
+    }
+
+.bt{
+    position: relative;
+    left: 710px;
+
+    margin: auto;
+    border-radius: 50%;
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+  margin: 10px;
+  padding: 15px;
+   
+}
+
+
+
+.x{
+    position: relative;
+    top: -18px;
+    left: -4px;
+}
+ 
+.App .form-control{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 100%;
+   
+}
+.react-datepicker__input-container,
+.react-datepicker-ignore-onclickoutside{
+    display: block;
+    width: 770px;
+
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: #fff;
+}
